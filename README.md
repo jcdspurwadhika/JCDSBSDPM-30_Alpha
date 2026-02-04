@@ -167,7 +167,3 @@ bank-term-deposit-analysis/
 Data Analysis & Machine Learning Project
 
 ---
-
-
-
-## 📁 Project Structure
